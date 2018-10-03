@@ -1,5 +1,6 @@
 # hello-world
-my first repository
 
-Hello everyone.  This is my first attempt at doing stuff on github.
-Now I'll know what it's like to be a programmer.
+All right, this is a brand new change
+Not sure if what I did just now worked
+but this one should be pretty clear
+right?
